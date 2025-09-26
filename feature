@@ -1,1 +1,1 @@
-conflict incoming
+feature 2 
