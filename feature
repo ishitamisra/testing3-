@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-another conflict
-=======
-merge conflict 
->>>>>>> conflict
+feature 1 change
