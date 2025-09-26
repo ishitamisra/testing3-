@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-another conflict
-=======
-merge conflict 
->>>>>>> conflict
+conflict incoming
